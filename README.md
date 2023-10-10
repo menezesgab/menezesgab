@@ -14,13 +14,12 @@
 
 ## O que você encontrará neste perfil
 
-Neste perfil do GitHub, você encontrará:
+Neste perfil, você encontrará:
 
-- Projetos pessoais relacionados a hardware, software e tecnologia em geral.
-- Contribuições para projetos de código aberto que acredito e apoio.
-- Códigos, documentação e tutoriais que compartilho com a comunidade.
-- Reflexões sobre minhas experiências de aprendizado e desenvolvimento pessoal.
-
+- Projetos 
+- Apoio em projetos importantes
+- Análises de projetos
+- 
 ## Como entrar em contato comigo
 
 - 📧 Você pode me contatar por e-mail em Gabrielmenezes2018@outlook.com.br
@@ -28,8 +27,5 @@ Neste perfil do GitHub, você encontrará:
 
 ## Obrigado por visitar!
 
-Agradeço por visitar meu perfil do GitHub. Fique à vontade para explorar meus projetos e entrar em contato. Estou sempre em busca de novas oportunidades e colaborações emocionantes.
-
-Divirta-se explorando meu mundo digital!
-
+Volte sempre!
 ![GIF de um código de computador](link_para_imagem.gif)
