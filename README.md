@@ -8,7 +8,7 @@
 
 - 💻 Apaixonado pela tecnologia
 
-- ⚽ Nas horas vaga, gosto muito de jogar futsal
+- ⚽ Nas horas vagas, gosto muito de jogar futsal
 
 - 🎮 Meu hobbie preferido é jogar videogame
 
@@ -23,9 +23,8 @@ Neste perfil do GitHub, você encontrará:
 
 ## Como entrar em contato comigo
 
-- 📧 Você pode me contatar por e-mail em [seuemail@example.com](mailto:seuemail@example.com).
-- 💼 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/arthurkairan) para discutir oportunidades de colaboração e networking.
-- 🐦 Me siga no [Twitter](https://twitter.com/seuusuario) para acompanhar minhas atualizações e pensamentos sobre tecnologia e muito mais.
+- 📧 Você pode me contatar por e-mail em Gabrielmenezes2018@outlook.com.br
+
 
 ## Obrigado por visitar!
 
