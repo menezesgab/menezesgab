@@ -4,13 +4,13 @@
 
 ## Sobre mim
 
-- 🎓
+- 🎓 Cursando Bacharelado em Tecnologia da Informação
 
-- 💻 
+- 💻 Apaixonado pela tecnologia
 
-- 🏊‍♂️ 
+- ⚽ Nas horas vaga, gosto muito de jogar futsal
 
-- 🎮 
+- 🎮 Meu hobbie preferido é jogar videogame
 
 ## O que você encontrará neste perfil
 
