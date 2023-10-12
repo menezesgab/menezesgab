@@ -19,10 +19,10 @@ Neste perfil, você encontrará:
 - Projetos 
 - Apoio em projetos importantes
 - Análises de projetos
-- 
-## Como entrar em contato comigo
+  
+## Contato
 
-- 📧 Você pode me contatar por e-mail em Gabrielmenezes2018@outlook.com.br
+- 📧 Gabrielmenezes2018@outlook.com.br
 
 
 igo de computador](link_para_imagem.gif)
