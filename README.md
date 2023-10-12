@@ -2,7 +2,7 @@
 
 
 
-## Sobre mim
+## Curiosidades
 
 - 🎓 Cursando Bacharelado em Tecnologia da Informação
 
@@ -12,7 +12,7 @@
 
 - 🎮 Meu hobbie preferido é jogar videogame
 
-## O que você encontrará neste perfil
+## Tópicos que encontrará por aqui
 
 Neste perfil, você encontrará:
 
@@ -25,7 +25,4 @@ Neste perfil, você encontrará:
 - 📧 Você pode me contatar por e-mail em Gabrielmenezes2018@outlook.com.br
 
 
-## Obrigado por visitar!
-
-Volte sempre!
-![GIF de um código de computador](link_para_imagem.gif)
+igo de computador](link_para_imagem.gif)
